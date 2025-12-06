@@ -1,0 +1,3 @@
+model: "llama3-70b-8192"
+allow_network: false
+version: "1.0.0"
